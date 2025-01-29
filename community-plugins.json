@@ -10123,9 +10123,9 @@
     },
     {
         "id": "fileorganizer2000",
-        "name": "AI File Organizer 2000",
+        "name": "Note Companion",
         "author": "Benjamin Ashgan Shafii",
-        "description": "AI assistant to automatically organize, chat, and format your notes. Works with images, PDFs, and your voice",
+        "description": "AI assistant that goes beyond just a chat. Enhance meeting notes, sync your handwritten notebooks, and more.",
         "repo": "different-ai/file-organizer-2000"
     },
     {
